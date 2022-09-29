@@ -1,0 +1,49 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_53E686B8_7DFE_2F17_41D8_2CA2B81E49F4.source = https://api.whatsapp.com/send?phone=5522998665958
+LinkBehaviour_56F48468_7DF5_E337_41BD_D2FC82B9FD0F.source = https://api.whatsapp.com/send?phone=5522998665958
+LinkBehaviour_59210780_7E16_2DF7_41CF_DC2657482116.source = https://api.whatsapp.com/send?phone=5522998665958
+LinkBehaviour_5A595EAF_7E0E_DF0A_41C9_8E8EE555231D.source = https://www.facebook.com/groups/754858287939146
+LinkBehaviour_570A6468_7DF5_E337_41DD_C5340FB1A271.source = https://www.facebook.com/groups/754858287939146
+LinkBehaviour_552CD66B_7DFA_2F09_41C1_DA2BE137F2E8.source = https://www.facebook.com/groups/754858287939146
+LinkBehaviour_570A3468_7DF5_E337_41D1_A756F3812D0A.source = https://www.google.com.br/maps/place/PLANTA+DOS+P%C3%89S/@-21.7787442,-41.2903655,3a,75y,155.07h,96.39t/data=!3m6!1e1!3m4!1sqj7W1gxAY25LIRbAyCc9MQ!2e0!7i16384!8i8192!4m13!1m7!3m6!1s0xbe7fae7159fa9b:0x7923808e96b334bc!2sAv.+Pres.+Kennedy+-+Parque+J%C3%B3quei+Club,+Campos+dos+Goytacazes+-+RJ,+28020-025!3b1!8m2!3d-21.7809159!4d-41.293522!3m4!1s0xbdd5ed164409c1:0x3758e59a69461311!8m2!3d-21.7790249!4d-41.2902647?hl=pt-BR
+LinkBehaviour_55BD5E76_7DFE_3F1B_41BC_EDF203AAE3A0.source = https://www.google.com.br/maps/place/PLANTA+DOS+P%C3%89S/@-21.7787442,-41.2903655,3a,75y,155.07h,96.39t/data=!3m6!1e1!3m4!1sqj7W1gxAY25LIRbAyCc9MQ!2e0!7i16384!8i8192!4m13!1m7!3m6!1s0xbe7fae7159fa9b:0x7923808e96b334bc!2sAv.+Pres.+Kennedy+-+Parque+J%C3%B3quei+Club,+Campos+dos+Goytacazes+-+RJ,+28020-025!3b1!8m2!3d-21.7809159!4d-41.293522!3m4!1s0xbdd5ed164409c1:0x3758e59a69461311!8m2!3d-21.7790249!4d-41.2902647?hl=pt-BR
+LinkBehaviour_58F5B752_7E0A_6D1B_41CF_D0882466417E.source = https://www.google.com.br/maps/place/PLANTA+DOS+P%C3%89S/@-21.7787442,-41.2903655,3a,75y,155.07h,96.39t/data=!3m6!1e1!3m4!1sqj7W1gxAY25LIRbAyCc9MQ!2e0!7i16384!8i8192!4m13!1m7!3m6!1s0xbe7fae7159fa9b:0x7923808e96b334bc!2sAv.+Pres.+Kennedy+-+Parque+J%C3%B3quei+Club,+Campos+dos+Goytacazes+-+RJ,+28020-025!3b1!8m2!3d-21.7809159!4d-41.293522!3m4!1s0xbdd5ed164409c1:0x3758e59a69461311!8m2!3d-21.7790249!4d-41.2902647?hl=pt-BR
+LinkBehaviour_5A9C1623_7E0D_EF39_41DD_A71F1E8F62EA.source = https://www.instagram.com/mairadracaroline/
+LinkBehaviour_54F935AC_7DFB_ED0E_41DA_5CBE7BA89422.source = https://www.instagram.com/mairadracaroline/
+LinkBehaviour_570A9459_7DF5_E316_41A0_6FC2678B9818.source = https://www.instagram.com/mairadracaroline/
+
+## Media
+
+### Audio
+audiores_52FBF6F5_7E0A_2F1E_41DB_38A404DA8F8F.mp3Url = media/audio_596B706A_7E0F_E30B_4189_912668F43C19_pt.mp3
+
+### Title
+panorama_64DF7513_7E0A_6D19_41D6_88DA6127717C.label = CLINICA ODONT CAROLINA
+video_5A64F6DB_7E3A_EF09_41DA_CC243AC95DBA.label = Como limpar meu aparelho_480p
+
+### Video
+videolevel_98E9998A_8E74_7942_41D1_CD3BEB32B4C2.posterURL = media/video_5A64F6DB_7E3A_EF09_41DA_CC243AC95DBA_poster_pt.jpg
+videolevel_98E9998A_8E74_7942_41D1_CD3BEB32B4C2.url = media/video_5A64F6DB_7E3A_EF09_41DA_CC243AC95DBA_pt.mp4
+
+## Skin
+
+### Button
+Button_596DC74E_7E36_2D0B_41D2_D3CD7221F995_mobile.label = Facebook
+Button_596DC74E_7E36_2D0B_41D2_D3CD7221F995.label = Facebook
+Button_5B02D9E2_7E3A_653A_41A4_055AB06A3C23_mobile.label = Instagram
+Button_5B02D9E2_7E3A_653A_41A4_055AB06A3C23.label = Instagram
+Button_5A3B1534_7E36_6D1F_41DB_15F03A5ABB70.label = Localização
+Button_5A3B1534_7E36_6D1F_41DB_15F03A5ABB70_mobile.label = Localização
+Button_585F74E2_7E36_233A_4172_025114939C2D.label = Whatsapp
+Button_585F74E2_7E36_233A_4172_025114939C2D_mobile.label = Whatsapp
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Projeto Clinica Odont Carolina (Duplicado)
